@@ -1,0 +1,2 @@
+sudo docker run --rm -v $(pwd):/usr/src/app  basketchamp 
+sudo docker run --rm -v $(pwd):/usr/src/app -p 80:80  basketchamp 

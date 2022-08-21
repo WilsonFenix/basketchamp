@@ -1,0 +1,38 @@
+{
+    "players": [
+        {
+            "name": "Alaa Abdelnaby",
+            "games": "256",
+            "points": "5.7",
+            "total_rebounds": "3.3",
+            "assists": "0.3",
+            "field_goal_percentage": "50.2",
+            "three_point_field_goal_percentage": "0.0",
+            "free_hrow_percentage": "70.1",
+            "effective_field_goal_percentage": "50.2"
+        },
+        {},
+        {
+            "name": "Kareem Abdul-Jabbar*",
+            "games": "1560",
+            "points": "24.6",
+            "total_rebounds": "11.2",
+            "assists": "3.6",
+            "field_goal_percentage": "55.9",
+            "three_point_field_goal_percentage": "5.6",
+            "free_hrow_percentage": "72.1",
+            "effective_field_goal_percentage": "55.9"
+        },
+        {
+            "name": "Mahmoud Abdul-Rauf",
+            "games": "586",
+            "points": "14.6",
+            "total_rebounds": "1.9",
+            "assists": "3.5",
+            "field_goal_percentage": "44.2",
+            "three_point_field_goal_percentage": "35.4",
+            "free_hrow_percentage": "90.5",
+            "effective_field_goal_percentage": "47.2"
+        }
+    ]
+}
